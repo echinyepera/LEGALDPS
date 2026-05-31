@@ -1,0 +1,108 @@
+Metadata:
+{'author': 'Eddywale', 'creation_date': "D:20260515214108+02'00'", 'page_count': 3, 'title': '', 'subject': '', 'keywords': ''}
+
+Text:
+Edwell     Chinyepera 
+Software Developer | Data & Systems Analyst 
++263 77 253 0860 | edwellchinyepera@gmail.com 
+github.com/echinyepera | trainedpo.netlify.app | linkedin.com/in/edwell-chinyepera-
+8b8bb0293 
+ 
+SUMMARY 
+Information Systems student at Midlands State University with a passion for aligning 
+technology with business strategy. Combines hands-on IT infrastructure experience with 
+expertise in AI-powered analytics and automation. Final year project addresses a US$1.2 
+billion problem in Zimbabwe's agricultural sector. Seeking opportunities in data analytics, 
+systems analysis, or software development. 
+ 
+EXPERIENCE 
+Freelance Developer | Jan 2024 – Present 
+ 
+Delivered Python-based PDF automation for a legal firm, reducing processing time by 80% 
+ 
+Built custom software solutions using Python and web technologies 
+IT Support Technician | Bowtracker Safaris, Antelope Park | Feb 2025 – Oct 2025 
+ 
+Maintained critical IT infrastructure including computers, servers, and internet routers, 
+ensuring low downtime and high productivity 
+ 
+Performed network maintenance including WiFi optimization, software updates, and 
+hardware upgrades (HDD to SSD replacements) 
+ 
+Repaired APEX and Pastel servers; implemented data backup procedures for smooth business 
+processing 
+ 
+Installed and maintained CCTV systems; resolved client gadget issues ensuring service 
+satisfaction 
+ 
+Inspected and maintained IT cabling infrastructure from tower to destination points 
+ 
+ 
+EDUCATION 
+Bachelor's Degree in Information Systems (Pending) | Midlands State University | 2023 – 
+2026 
+Advanced Level | Mushandike High School | 2021 – 2022 
+3 Passes: Mathematics, Geography, Statistics 
+Ordinary Level | Dorset Secondary School | 2017 – 2020 
+7 Passes including Mathematics and Science 
+ 
+PROJECTS 
+Confidential Agricultural Project(Final Year Project) 
+ 
+Mobile-based solution addressing a US$1.2 billion problem in Zimbabwe's agricultural sector 
+ 
+Details available upon request under NDA 
+Nandoz Odds Pro – AI Sports Prediction System (In Development) 
+ 
+Reinforcement learning-based system using self-improving rules for prediction 
+ 
+Tech: Python, Reinforcement Learning, Pandas 
+Legal Document Processing System 
+ 
+Automated PDF processing reducing manual time by 80% 
+ 
+Tech: Python, PyPDF2 
+ 
+SKILLS 
+Category 
+Skills 
+Programming 
+Python, SQL, JavaScript, HTML/CSS 
+AI/ML 
+Reinforcement Learning, Predictive Analytics, Data Mining, Scikit-learn, Pandas 
+Frameworks 
+Django, Flask, React 
+Databases 
+PostgreSQL, SQLite, MongoDB 
+Category 
+Skills 
+Mobile 
+USSD Integration, SMS Gateways 
+Infrastructure 
+Networking, Git, GitHub Pages, Docker (basic) 
+Soft Skills 
+Problem-solving, Communication, Client management, Self-motivation, Attention to 
+detail,Collaboration 
+Methodologies 
+Agile, SDLC, System Analysis 
+ 
+LANGUAGES 
+ 
+English 
+ 
+Shona 
+ 
+INTERESTS 
+ 
+Machine Learning & AI 
+ 
+Chess 
+ 
+Football (Soccer) 
+ 
+Agriculture 
+ 
+Reading Tech & Business Articles 
+ 
+Project Management 
+ 

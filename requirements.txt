@@ -1,0 +1,9 @@
+pymupdf
+pytesseract
+pandas
+openpyxl
+flask
+flask-sqlalchemy
+python-dotenv
+werkzeug
+pillow

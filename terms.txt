@@ -1,0 +1,7 @@
+John Doe
+Jane Smith
+Case No: 2024-001
+Confidential
+Attorney-Client Privilege
+regex:\d{3}-\d{2}-\d{4}
+regex:[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+
